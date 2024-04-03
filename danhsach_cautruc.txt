@@ -1,0 +1,20 @@
+-----Thong tin nhan vien-----
+	Ma nhan vien: 1234
+	Ho ten nhan vien: Nhi
+	Luong cua nhan vien: 40000000
+-----Thong tin nhan vien-----
+	Ma nhan vien: 5678
+	Ho ten nhan vien: Bao
+	Luong cua nhan vien: 24500000
+-----Thong tin nhan vien-----
+	Ma nhan vien: 9012
+	Ho ten nhan vien: John
+	Luong cua nhan vien: 3800000
+-----Thong tin nhan vien-----
+	Ma nhan vien: 3456
+	Ho ten nhan vien: LyLy
+	Luong cua nhan vien: 1000000
+-----Thong tin nhan vien-----
+	Ma nhan vien: 7890
+	Ho ten nhan vien: Shiv
+	Luong cua nhan vien: 50000000
